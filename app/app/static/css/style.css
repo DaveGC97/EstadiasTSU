@@ -1,0 +1,20 @@
+#cuno {
+	background-color: rgb(58, 58, 58);
+	border-radius: 10px 10px 0px 0px;
+	color: white;
+	padding: 13px;
+	margin-top: 8px;
+}
+#cdos {
+	border-radius: 0px 0px 10px 10px;
+	padding: 13px;
+	
+}
+#textAlign {
+	display: flex;
+	align-items: center;
+}
+input{
+	border-radius: 5px; 
+	border: 1px solid #2E8EFB;
+}
